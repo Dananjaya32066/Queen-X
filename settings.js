@@ -24,7 +24,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
 global.session = "V2I3MFNmRHM=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
+global.ownernomer = "94772945838" //ur number
 global.premium = ['94719225807'] //ur premium number
 global.botname = 'ӁＫＩＮＧ  ＬÜＳＩＦＥＲ ꧂' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
