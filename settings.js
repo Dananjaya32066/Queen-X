@@ -15,25 +15,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
+global.owner = ['94772945838'] //ur owner number
+global.ownername = "ӁＫＩＮＧ  ＬÜＳＩＦＥＲ ꧂" //ur owner name
 global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
+global.socialm = "ӁＫＩＮＧ  ＬÜＳＩＦＥＲ ꧂" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න
-global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+global.session = "V2I3MFNmRHM=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
-global.botname = 'QUEEN -X' //ur bot name
+global.botname = 'ӁＫＩＮＧ  ＬÜＳＩＦＥＲ ꧂' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
+global.websitex = "https://www.contacts.lk/contact/5072/danushka-music-class" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
+global.packname = "ӁＫＩＮＧ  ＬÜＳＩＦＥＲ ꧂" //ur sticker watermark packname
 global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.wm = "ӁＫＩＮＧ  ＬÜＳＩＦＥＲ ꧂." //ur watermark
 
 // Other
 global.sessionName = 'session'
